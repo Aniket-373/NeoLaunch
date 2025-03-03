@@ -31,7 +31,8 @@ const features = [
           <h2 className="mt-28 text-3xl font-bold text-center mb-8 text-white">Why Shop With Us?</h2>
           <div className="grid md:grid-cols-2 lg:grid-cols-4  gap-8">
             {features.map((feature, index) => (
-              <div key={index} className="p-6 bg-white rounded-lg shadow-md text-center w-full hover:scale-105 transition-transform cursor-pointer">
+              <div key={index} className="p-6 bg-white rounded-lg shadow-md text-center w-full hover:scale-105 transition-transform cursor-pointer
+              ">
                 <span className="text-4xl">{feature.icon}</span>
                 <h3 className="mt-4 text-xl font-semibold">{feature.title}</h3>
                 <p className="mt-2 text-gray-600">{feature.description}</p>
