@@ -7,7 +7,7 @@ const NavBar = () => {
   <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
     <Link to="/" target='_top' className="flex items-center">
       <img
-        src="/src/assets/NeoLaunch-icon.png"
+        src="public/assets/NeoLaunch-icon.png"
         className=" image h-8"
         alt="NeoLaunch Logo"
       />

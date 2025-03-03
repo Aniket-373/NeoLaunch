@@ -10,7 +10,7 @@ const Footer = () => {
     className="flex items-center justify-center mr-8 mb-5 text-2xl font-semibold text-white"
   >
     <img
-      src="/src/assets/NeoLaunch-icon.png"
+      src="public/assets/NeoLaunch-icon.png"
       className=" image h-12 sm:h-9"
       alt="NeoLaunch Logo"
     />
