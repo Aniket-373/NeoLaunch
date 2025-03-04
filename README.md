@@ -27,6 +27,7 @@ A sleek and modern **E-Commerce Landing Page** built with **React.js** and **Tai
    ```sh
    npm run dev
    ```
+   
 ## 📸 Screenshots
 1. Mobile(425px):
    
@@ -45,6 +46,11 @@ A sleek and modern **E-Commerce Landing Page** built with **React.js** and **Tai
    ![Screenshot3.1](https://github.com/user-attachments/assets/2c0108e6-109f-40bc-9c71-dd9aaf6e0398)
 
    ![Screenshot3.2](https://github.com/user-attachments/assets/52dd8660-bb1e-4d1d-be56-6571f1b2b044)
+
+
+## 📺 Demo Video
+
+https://github.com/user-attachments/assets/f8a9a9be-1b44-4e7f-8b11-bfeb5816a260
 
 
 
