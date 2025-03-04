@@ -11,8 +11,10 @@ A sleek and modern **E-Commerce Landing Page** built with **React.js** and **Tai
 - **Product Showcase** with interactive cards  
 - **Optimized Performance** with clean code  
 
+
 ## 🔗 Tech Stack  
 - **Frontend:** React.js, Tailwind CSS  
+
 
 ## 📌 Get Started  
 1. Clone the repository:  
@@ -27,6 +29,7 @@ A sleek and modern **E-Commerce Landing Page** built with **React.js** and **Tai
    ```sh
    npm run dev
    ```
+
    
 ## 📸 Screenshots
 1. Mobile(425px):
@@ -46,6 +49,7 @@ A sleek and modern **E-Commerce Landing Page** built with **React.js** and **Tai
    ![Screenshot3.1](https://github.com/user-attachments/assets/2c0108e6-109f-40bc-9c71-dd9aaf6e0398)
 
    ![Screenshot3.2](https://github.com/user-attachments/assets/52dd8660-bb1e-4d1d-be56-6571f1b2b044)
+
 
 
 ## 📺 Demo Video
